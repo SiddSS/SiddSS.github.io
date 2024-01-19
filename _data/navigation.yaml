@@ -4,8 +4,8 @@
 # - name: Blog
 #   link: /blog
 
-- name: CV
-  link: /cv
+# - name: CV
+#   link: /cv
 
 # - name: Projects
 #   link: /projects
