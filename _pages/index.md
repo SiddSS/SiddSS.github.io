@@ -33,7 +33,7 @@ I blog about my experiences [here]({{site.url}}/blog.html). -->
 <!-- <div style="height:250px;overflow:auto;"> -->
 
 * **Jan 2024** - 
- Resumed working on CollabNext portal for my Master's project under Prof. Kexin Rong - [News](https://research.gatech.edu/georgia-tech-awarded-15m-build-people-centric-network-national-research-database).
+ Resumed working on CollabNext portal ([news](https://research.gatech.edu/georgia-tech-awarded-15m-build-people-centric-network-national-research-database)) for my Master's project under Prof. Kexin Rong.
  Returned to CS 3510 - Design and Analysis of Algorithms as a Graduate Teaching Assistant. 
 
 <img style="float: right; width: 20%; padding: 10px; box-shadow: 3px 3px 3px 3px gray; " src="../assets/logos/mathworks-vector-logo.png">
