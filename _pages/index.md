@@ -3,7 +3,7 @@ layout: page
 permalink: /
 tags: stable diffusion, diffusion, neuroscience, georgiatech, wav2vec, oral reading fluency, prosody, insight, apt portfolio, hardware internship
 ---
-{% include JB/setup %}
+<!-- {% include JB/setup %} -->
 
 <img style="float: right; width: 35%; padding: 5px;" src="../assets/img/profile.jpg">
 
@@ -13,7 +13,8 @@ Hope you are doing well, and thanks for stopping by !
 I am actively looking for full-time SDE roles starting from May 2024. Kindly let me know if you have any leads.
 Here's a brief Introduction for me - 
 
-I am a graduate student at Georgia Tech, pursuing a Master of Science in Computer Science. I have experience in Software Development, machine learning and optimization. I have done a number of development projects involving Python, C++ and JavaScript. Modeling real world problems into mathematical models and then finding clever ways of solving them is something that I truly enjoy. I have also leveraged my coding skills while interning at MathWorks this summer and for six months in 2021, where I wrote production quality, scalable code in multiple major projects. My hobbies are playing basketball and debating. Feel free to have a strong opinion on any topic conversing with me, always interested in learning multiple perspectives on any topic :)
+I am a graduate student at Georgia Tech, pursuing a Master of Science in Computer Science. I have experience in Software Development, machine learning and optimization. I have done a number of development projects involving Python, C++ and JavaScript. Modeling real world problems into mathematical models and then finding clever ways of solving them is something that I truly enjoy. I have leveraged my coding skills while interning at MathWorks this summer and for six months in 2021, where I wrote production quality, scalable code in multiple major projects.
+My hobbies are playing basketball and debating. Feel free to have a strong opinion on any topic conversing with me, always interested in learning multiple perspectives on any topic :)
 
 <!-- Hi! My name is Siddharth Singh Solanki.
 
@@ -27,9 +28,11 @@ If in a hurry, you can have a look at my [CV]({{site.url}}/cv).
 
 I blog about my experiences [here]({{site.url}}/blog.html). -->
 
-## Updates
+## Research and Experience
 
 <!-- <div style="height:250px;overflow:auto;"> -->
+
+<img style="float: right; width: 35%; padding: 5px;" src="../assets/img/profile.jpg">
 * **October 2023**: Gave a short presentation on Anthropic's [amazing work](https://transformer-circuits.pub/2023/monosemantic-features/index.html) on Monosemanticity. Slides can be accessed [here](https://docs.google.com/presentation/d/1N6F2v2EyTmzsew5ceN0To3Q09e3p1boRJDJJfJ4qAFM/edit?usp=sharing).
 * **August 2023**: Completed a 3-month internship at Qualcomm!
 * **March 2023**: Gave a short presentation on In-Context Learning. Slides can be accessed [here]({{site.url}}/assets/pdf/icl.pdf).
