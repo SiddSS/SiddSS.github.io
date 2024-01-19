@@ -48,7 +48,9 @@ I blog about my experiences [here]({{site.url}}/blog.html). -->
 <img style="float: right; width: 20%; padding: 10px; box-shadow: 3px 3px 3px 3px gray; " src="../assets/logos/GeorgiaTech_RGB.png">
 * **August 2022** - 
  Joined Georgia Tech for Master's in Computer Science!!  
-   
+<br>
+<br>
+<br>
   
 
 
