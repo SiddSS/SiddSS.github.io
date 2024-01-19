@@ -32,7 +32,7 @@ I blog about my experiences [here]({{site.url}}/blog.html). -->
 
 <!-- <div style="height:250px;overflow:auto;"> -->
 
-<img style="float: left; width: 10%; padding: 10px;" src="../assets/logos/mathworks-vector-logo.png">
+<img style="float: left; width: 20%; padding: 10px;" src="../assets/logos/mathworks-vector-logo.png">
 * **October 2023**: Gave a short presentation on Anthropic's [amazing work](https://transformer-circuits.pub/2023/monosemantic-features/index.html) on Monosemanticity. Slides can be accessed [here](https://docs.google.com/presentation/d/1N6F2v2EyTmzsew5ceN0To3Q09e3p1boRJDJJfJ4qAFM/edit?usp=sharing).
 
 
