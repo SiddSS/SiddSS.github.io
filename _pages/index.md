@@ -28,11 +28,11 @@ If in a hurry, you can have a look at my [CV]({{site.url}}/cv).
 
 I blog about my experiences [here]({{site.url}}/blog.html). -->
 
-## Research and Experience
+## Milestones
 
 <!-- <div style="height:250px;overflow:auto;"> -->
 
-<img style="float: right; width: 35%; padding: 5px;" src="../assets/img/profile.jpg">
+<img style="float: left; width: 10%; padding: 5px;" src="../assets/logos/mathworks-vector-logo.png">
 * **October 2023**: Gave a short presentation on Anthropic's [amazing work](https://transformer-circuits.pub/2023/monosemantic-features/index.html) on Monosemanticity. Slides can be accessed [here](https://docs.google.com/presentation/d/1N6F2v2EyTmzsew5ceN0To3Q09e3p1boRJDJJfJ4qAFM/edit?usp=sharing).
 * **August 2023**: Completed a 3-month internship at Qualcomm!
 * **March 2023**: Gave a short presentation on In-Context Learning. Slides can be accessed [here]({{site.url}}/assets/pdf/icl.pdf).
