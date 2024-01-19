@@ -32,7 +32,7 @@ I blog about my experiences [here]({{site.url}}/blog.html). -->
 
 <!-- <div style="height:250px;overflow:auto;"> -->
 
-<img style="float: right; width: 20%; padding: 10px;" src="../assets/logos/mathworks-vector-logo.png">
+<img style="float: right; width: 20%; padding: 10px; box-shadow: 3px 3px 3px gray; " src="../assets/logos/mathworks-vector-logo.png">
 * **May - August 2023** - 
  Interned at MatWorks again this summer. This time got the opportunity to work on Parsim command with massive simulations team. Intorduced a function handle which reduced execution time for a typical workflow by three times.
 
