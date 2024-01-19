@@ -11,7 +11,7 @@ Hello there! My name is Siddharth Singh Solanki.
 
 I am pursuing a Master's in Computer Science at GeorgiaTech.
 
-I am broadly interested in the fields of **Machine Learning, Speech Processing** and **Computational Neuroscience**.
+I am interested in the fields of **Machine Learning, Speech Processing** and **Computational Neuroscience**.
 
 I plan to use this website as a medium for sharing my projects and other random thoughts.
 
