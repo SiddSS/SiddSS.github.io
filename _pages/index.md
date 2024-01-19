@@ -7,7 +7,7 @@ tags: stable diffusion, diffusion, neuroscience, georgiatech, wav2vec, oral read
 
 <img style="float: right; width: 35%; padding: 5px;" src=" {{site.url}}/assets/img/profile.jpg ">
 
-Hello there! My name is Mithilesh Vaidya.
+Hello there! My name is Siddharth Singh Solanki.
 
 I am pursuing a Master's in Computer Science at GeorgiaTech.
 
