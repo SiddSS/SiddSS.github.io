@@ -47,10 +47,11 @@ I blog about my experiences [here]({{site.url}}/blog.html). -->
 
 <img style="float: right; width: 20%; padding: 10px; box-shadow: 3px 3px 3px 3px gray; " src="../assets/logos/GeorgiaTech_RGB.png">
 * **August 2022** - 
- Joined Georgia Tech for Master's in Computer Science!!
+ Joined Georgia Tech for Master's in Computer Science!!  
+   
+  
 
-
-
+  
 * **August 2023**: Completed a 3-month internship at Qualcomm!
 * **March 2023**: Gave a short presentation on In-Context Learning. Slides can be accessed [here]({{site.url}}/assets/pdf/icl.pdf).
 * **November 2022**: Gave a short presentation on Stable Diffusion. Slides can be accessed [here]({{site.url}}/assets/pdf/sd_ppt.pdf).
