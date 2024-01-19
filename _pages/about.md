@@ -8,7 +8,7 @@ permalink: /about
 Hi! I am Siddharth Singh Solanki.
 
 I’m a second year Master's student in the College of Computing at Georgia Institute of Technology, USA.
-I graduated with a dual degree (B.Tech + M.Tech) in Electrical Engineering from IIT Bombay, India.
+I graduated with a dual degree (B.Tech) in Computer Science and Engineering from IIT Goa, India.
 
 I plan to use this website as a medium for sharing my projects and other random thoughts.
 
