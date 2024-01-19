@@ -37,7 +37,7 @@ I blog about my experiences [here]({{site.url}}/blog.html). -->
  Returned to CS 3510 - Design and Analysis of Algorithms as a Graduate Teaching Assistant. 
 
 * **Sep - Nov 2023** - 
- Introduced diffusion models to substitute image augmentations in the contrastive learning approach used in the paper [SimCLR](https://arxiv.org/abs/2002.05709). Achieved better compute efficiency and increased Top-1 accuracy. This was a course project for [CS 7647](https://sites.google.com/view/cs7647fa23/schedule?authuser=0) - Machine Learning with Limited Supervision. [Final Slides](https://docs.google.com/presentation/d/1Ncj20IttlGd4c3X-h1ql0oCYVr4w71eiWZ3eaWJymZQ/edit?usp=sharing). [Teaser Video].(https://www.youtube.com/watch?v=MJC6Dt87srE)
+ Introduced diffusion models to substitute image augmentations in the contrastive learning approach used in the paper [SimCLR](https://arxiv.org/abs/2002.05709). Achieved better compute efficiency and increased Top-1 accuracy. This was a course project for [CS 7647](https://sites.google.com/view/cs7647fa23/schedule?authuser=0) - Machine Learning with Limited Supervision. [Final Slides](https://docs.google.com/presentation/d/1Ncj20IttlGd4c3X-h1ql0oCYVr4w71eiWZ3eaWJymZQ/edit?usp=sharing). [Teaser Video](https://www.youtube.com/watch?v=MJC6Dt87srE).
 
  <img style="float: right; width: 20%; padding: 10px; box-shadow: 3px 3px 3px 3px gray; " src="../assets/logos/mathworks-vector-logo.png">
 * **May - August 2023** - 
@@ -51,7 +51,7 @@ I blog about my experiences [here]({{site.url}}/blog.html). -->
    
   
 
-  
+
 * **August 2023**: Completed a 3-month internship at Qualcomm!
 * **March 2023**: Gave a short presentation on In-Context Learning. Slides can be accessed [here]({{site.url}}/assets/pdf/icl.pdf).
 * **November 2022**: Gave a short presentation on Stable Diffusion. Slides can be accessed [here]({{site.url}}/assets/pdf/sd_ppt.pdf).
