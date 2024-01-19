@@ -7,7 +7,15 @@ tags: stable diffusion, diffusion, neuroscience, georgiatech, wav2vec, oral read
 
 <img style="float: right; width: 35%; padding: 5px;" src="../assets/img/profile.jpg">
 
-Hello there! My name is Siddharth Singh Solanki.
+Hi,
+Hope you are doing well, and thanks for stopping by !
+
+I am actively looking for full-time SDE roles starting from May 2024. Kindly let me know if you have any leads.
+Here's a brief Introduction for me - 
+
+I am a graduate student at Georgia Tech, pursuing a Master of Science in Computer Science. I have experience in Software Development, machine learning and optimization. I have done a number of development projects involving Python, C++ and JavaScript. Modeling real world problems into mathematical models and then finding clever ways of solving them is something that I truly enjoy. I have also leveraged my coding skills while interning at MathWorks this summer and for six months in 2021, where I wrote production quality, scalable code in multiple major projects. My hobbies are playing basketball and debating. Feel free to have a strong opinion on any topic conversing with me, always interested in learning multiple perspectives on any topic :)
+
+<!-- Hi! My name is Siddharth Singh Solanki.
 
 I am pursuing a Master's in Computer Science at GeorgiaTech.
 
@@ -17,7 +25,7 @@ I plan to use this website as a medium for sharing my projects and other random 
 
 If in a hurry, you can have a look at my [CV]({{site.url}}/cv).
 
-I blog about my experiences [here]({{site.url}}/blog.html).
+I blog about my experiences [here]({{site.url}}/blog.html). -->
 
 ## Updates
 
