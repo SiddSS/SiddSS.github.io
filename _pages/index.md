@@ -32,9 +32,9 @@ I blog about my experiences [here]({{site.url}}/blog.html). -->
 
 <!-- <div style="height:250px;overflow:auto;"> -->
 
-<img style="float: left; width: 20%; padding: 10px;" src="../assets/logos/mathworks-vector-logo.png">
-* **October 2023**: Gave a short presentation on Anthropic's [amazing work](https://transformer-circuits.pub/2023/monosemantic-features/index.html) on Monosemanticity. Slides can be accessed [here](https://docs.google.com/presentation/d/1N6F2v2EyTmzsew5ceN0To3Q09e3p1boRJDJJfJ4qAFM/edit?usp=sharing).
-
+*<img style="float: left; width: 20%; padding: 10px;" src="../assets/logos/mathworks-vector-logo.png">
+ **May-August 2023** - 
+ Interned at MatWorks again this summer. This time got the opportunity to work on Parsim command with massive simulations team. Intorduced a function handle which reduced execution time for a typical workflow by three times.
 
 * **August 2023**: Completed a 3-month internship at Qualcomm!
 * **March 2023**: Gave a short presentation on In-Context Learning. Slides can be accessed [here]({{site.url}}/assets/pdf/icl.pdf).
