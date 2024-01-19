@@ -22,7 +22,7 @@ I am pursuing a Master's in Computer Science at GeorgiaTech.
 
 I am interested in the fields of **Machine Learning, Speech Processing** and **Computational Neuroscience**.
 
-I plan to use this website as a medium for sharing my projects and other random thoughts.
+I plan to use this website as a medium for sharing projects and other random thoughts.
 
 If in a hurry, you can have a look at my [CV]({{site.url}}/cv).
 
