@@ -28,7 +28,7 @@ If in a hurry, you can have a look at my [CV]({{site.url}}/cv).
 
 I blog about my experiences [here]({{site.url}}/blog.html). -->
 
-## Milestones
+## Updates and Milestones
 
 <!-- <div style="height:250px;overflow:auto;"> -->
 
@@ -39,6 +39,10 @@ I blog about my experiences [here]({{site.url}}/blog.html). -->
 <img style="float: right; width: 20%; padding: 10px; box-shadow: 3px 3px 3px 3px gray; " src="../assets/logos/mathworks-vector-logo.png">
 * **May - August 2023** - 
  Interned at MathWorks again this summer. This time got the opportunity to work on Parsim command with massive simulations team. Intorduced a function handle which reduced execution time for a typical workflow by three times.
+
+* **Sep - Nov 2023** - 
+ Introduced diffusion models to contrastive learning used in the paper [SimCLR](https://arxiv.org/abs/2002.05709) and achieved better compute efficiency as well as increased Top-1 accuracy. This was a course project for [CS 7647](https://sites.google.com/view/cs7647fa23/schedule?authuser=0) - Machine Learning with Limited Supervision. [Final Slides](https://docs.google.com/presentation/d/1Ncj20IttlGd4c3X-h1ql0oCYVr4w71eiWZ3eaWJymZQ/edit?usp=sharing) [Teaser Video](https://www.youtube.com/watch?v=MJC6Dt87srE)
+ 
 
 
 <img style="float: right; width: 20%; padding: 10px; box-shadow: 3px 3px 3px 3px gray; " src="../assets/logos/mathworks-vector-logo.png">
