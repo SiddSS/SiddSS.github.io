@@ -16,7 +16,7 @@ email2: siddharth.solanki@gatech.edu
 description: An attempt to document my journey as a human.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://siddss.github.io" # the base hostname & protocol for your site
-github_username:  SidSS
+github_username:  SiddSS
 linkedin_username: siddharth-singh-solanki
 include: ['_pages']
 footer-links-active:
