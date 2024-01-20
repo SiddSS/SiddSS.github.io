@@ -12,7 +12,7 @@ Hope you are doing well, and thanks for stopping by !
 
 I am actively looking for full-time SDE roles starting from May 2024. Kindly let me know if you have any leads.
 Here's a brief Introduction for me -  -->
-
+# About
 I am a graduate student at Georgia Tech, pursuing a Master of Science in Computer Science. I have experience in Software Development, machine learning and optimization. I have done a number of development projects involving Python, C++ and JavaScript. Modeling real world problems into mathematical models and then finding clever ways of solving them is something that I truly enjoy. I have leveraged my coding skills while interning at MathWorks this summer and for six months in 2021, where I wrote production quality, scalable code in multiple major projects.
 My hobbies are playing basketball and debating. Feel free to have a strong opinion on any topic conversing with me, always interested in learning multiple perspectives on any topic :)
 
@@ -27,8 +27,9 @@ I plan to use this website as a medium for sharing projects and other random tho
 If in a hurry, you can have a look at my [CV]({{site.url}}/cv).
 
 I blog about my experiences [here]({{site.url}}/blog.html). -->
-
-## Updates and Milestones
+<br>
+<br>
+# Updates and Milestones
 
 <!-- <div style="height:250px;overflow:auto;"> -->
 
@@ -46,9 +47,11 @@ I blog about my experiences [here]({{site.url}}/blog.html). -->
  * **Jan - April 2023** - 
  Worked on a investigation project on Internet Outage Data provided by [IODA lab](https://ioda.inetintel.cc.gatech.edu). Performed data analysis and explored a ensemble Machine learning approach to detect outages from a bunch of weak signals. [Report](../assets/misc/Ensemble_methods.pdf)
  <br>
- Also worked on developing a web app provides statistics and maps based on historical accident data and live conditions on a highway route. [Report](../assets/misc/team001report.pdf). [GitHub](https://github.com/SiddSS/Stay-Alive-Think-and-Drive-App)
+ Also worked on developing a web app provides statistics and maps based on historical accident data and live conditions on a highway route. [Report](../assets/misc/team001report.pdf). [GitHub](https://github.com/SiddSS/Stay-Alive-Think-and-Drive-App).
 
 <img style="float: right; width: 20%; padding: 10px; box-shadow: 3px 3px 3px 3px gray; " src="../assets/logos/GeorgiaTech_RGB.png">
+<br>
+<br>
 * **August 2022** - 
  Joined Georgia Tech for Master's in Computer Science!!  
 <br>
