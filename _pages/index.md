@@ -26,7 +26,7 @@ I plan to use this website as a medium for sharing projects and other random tho
 
 If in a hurry, you can have a look at my [CV]({{site.url}}/cv).
 
-I blog about my experiences [here]({{site.url}}/blog.html). -->
+I blog about my experiences[here]({{site.url}}/blog.html). -->
 <br>
 # Updates and Milestones
 
