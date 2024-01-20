@@ -28,7 +28,6 @@ If in a hurry, you can have a look at my [CV]({{site.url}}/cv).
 
 I blog about my experiences [here]({{site.url}}/blog.html). -->
 <br>
-<br>
 # Updates and Milestones
 
 <!-- <div style="height:250px;overflow:auto;"> -->
@@ -51,14 +50,9 @@ I blog about my experiences [here]({{site.url}}/blog.html). -->
 
 <img style="float: right; width: 20%; padding: 10px; box-shadow: 3px 3px 3px 3px gray; " src="../assets/logos/GeorgiaTech_RGB.png">
 <br>
-<br>
 * **August 2022** - 
  Joined Georgia Tech for Master's in Computer Science!!  
 <br>
-<br>
-<br>
-  
-
 
 * **August 2023**: Completed a 3-month internship at Qualcomm!
 * **March 2023**: Gave a short presentation on In-Context Learning. Slides can be accessed [here]({{site.url}}/assets/pdf/icl.pdf).
