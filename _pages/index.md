@@ -40,10 +40,13 @@ I blog about my experiences [here]({{site.url}}/blog.html). -->
  Introduced diffusion models to substitute image augmentations in the contrastive learning approach used in the paper [SimCLR](https://arxiv.org/abs/2002.05709). Achieved better compute efficiency and increased Top-1 accuracy. This was a course project for [CS 7647](https://sites.google.com/view/cs7647fa23/schedule?authuser=0) - Machine Learning with Limited Supervision. [Final Slides](https://docs.google.com/presentation/d/1Ncj20IttlGd4c3X-h1ql0oCYVr4w71eiWZ3eaWJymZQ/edit?usp=sharing). [Teaser Video](https://www.youtube.com/watch?v=MJC6Dt87srE).
 
  <img style="float: right; width: 20%; padding: 10px; box-shadow: 3px 3px 3px 3px gray; " src="../assets/logos/mathworks-vector-logo.png">
-* **May - August 2023** - 
+* **May - Aug 2023** - 
  Interned at MathWorks again this summer. This time got the opportunity to work on Parsim command with massive simulations team. Intorduced a function handle which reduced execution time for a typical workflow by three times. This code will be shipped with 2024-a release of Matlab!
  
-
+ * **Jan - April 2023** - 
+ Worked on a investigation project on Internet Outage Data provided by [IODA lab](https://ioda.inetintel.cc.gatech.edu). Performed data analysis and explored a ensemble Machine learning approach to detect outages from a bunch of weak signals. [Report](../assets/misc/Ensemble_methods.pdf)
+ <br>
+ Also worked on developing a web app provides statistics and maps based on historical accident data and live conditions on a highway route. [Report](../assets/misc/team001report.pdf). [GitHub](https://github.com/SiddSS/Stay-Alive-Think-and-Drive-App)
 
 <img style="float: right; width: 20%; padding: 10px; box-shadow: 3px 3px 3px 3px gray; " src="../assets/logos/GeorgiaTech_RGB.png">
 * **August 2022** - 
