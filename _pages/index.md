@@ -72,6 +72,7 @@ Also coded up a 2-D basketball simulator and experimented with multiple Multi ag
 Graduated from Indian Institute of Technology Goa with a Bronze medal in Computer Scince for ranking second in the batch! :)
 <br>
 <br>
+<br>
 * **Jan - April 2022** -
 Worked on mathematical guarantees in making robust decisions under stochastic and adversarial paradigms. [Report](../assets/misc/DRO_BTP_Report.pdf)
 This was for my B.Tech research project under advisement of [Prof. Divya Padmanabhan](https://sites.google.com/site/divspadmanabhan/). 
