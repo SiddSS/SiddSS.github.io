@@ -68,7 +68,7 @@ Also coded up a 2-D basketball simulator and experimented with multiple Multi ag
  Joined Georgia Tech for Master's in Computer Science!!  
 <br>
 <br>
-<img style="float: right; width: 25%; padding: 10px; box-shadow: 3px 3px 3px 3px gray; " src="../assets/logos/cropped-iit_goa.png">
+<img style="float: right; width: 22%; padding: 10px; box-shadow: 3px 3px 3px 3px gray; " src="../assets/logos/cropped-iit_goa.png">
 * **Jul 2022** -
 Graduated from Indian Institute of Technology Goa with a Bronze medal in Computer Scince for ranking second in the batch! :)
 <br>
