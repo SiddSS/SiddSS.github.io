@@ -63,12 +63,10 @@ Started my first semester at Georgia Tech! Fine tuned BERT based LLMs and experi
 Also coded up a 2-D basketball simulator and experimented with multiple Multi agent Reinforcement Learning Algorithms. [Slides](https://docs.google.com/presentation/d/1qm4tGowjmIiUeGE05t18BrgqZQBmPg0exNzAxqr2_KI/edit?usp=sharing).
 
 <img style="float: right; width: 20%; padding: 10px; box-shadow: 3px 3px 3px 3px gray; " src="../assets/logos/GeorgiaTech_RGB.png">
-<br>
 * **August 2022** - 
  Joined Georgia Tech for Master's in Computer Science!!  
-
-<img style="float: right; width: 25%; padding: 10px; box-shadow: 3px 3px 3px 3px gray; " src="../assets/logos/cropped-iit_goa.png">
 <br>
+<img style="float: right; width: 25%; padding: 10px; box-shadow: 3px 3px 3px 3px gray; " src="../assets/logos/cropped-iit_goa.png">
 * **Jul 2022** -
 Graduated from Indian Institute of Technology Goa with a Bronze medal in Computer Scince for ranking second in the batch! :)
 <br>
