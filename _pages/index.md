@@ -59,8 +59,7 @@ I blog about my experiences[here]({{site.url}}/blog.html). -->
  Also worked on developing a web app provides statistics and maps based on historical accident data and live conditions on a highway route. [Report](../assets/misc/team001report.pdf). [GitHub](https://github.com/SiddSS/Stay-Alive-Think-and-Drive-App).
 
 * **Sep - Nov 2022** -
-Started my first semester at Georgia Tech! Fine tuned BERT based LLMs and experimented with different attention mechanisms to develop a model which gives answers to the questions asked from a given comprehension. [webpage](https://siddss.github.io/answer_deduction/). This was a course project for ML7641 - Machine Learning. 
-
+Started my first semester at Georgia Tech! Fine tuned BERT based LLMs and experimented with different attention mechanisms to develop a model which gives answers to the questions asked from a given comprehension. [webpage](https://siddss.github.io/answer_deduction/). This was a course project for ML7641 - Machine Learning.<br>
 Also coded up a 2-D basketball simulator and experimented with multiple Multi agent Reinforcement Learning Algorithms. [Slides](https://docs.google.com/presentation/d/1qm4tGowjmIiUeGE05t18BrgqZQBmPg0exNzAxqr2_KI/edit?usp=sharing).
 
 <img style="float: right; width: 20%; padding: 10px; box-shadow: 3px 3px 3px 3px gray; " src="../assets/logos/GeorgiaTech_RGB.png">
@@ -68,10 +67,10 @@ Also coded up a 2-D basketball simulator and experimented with multiple Multi ag
 * **August 2022** - 
  Joined Georgia Tech for Master's in Computer Science!!  
 <br>
-<img style="float: right; width: 20%; padding: 10px; box-shadow: 3px 3px 3px 3px gray; " src="../assets/logos/cropped-iit_goa.png">
+<img style="float: right; width: 25%; padding: 10px; box-shadow: 3px 3px 3px 3px gray; " src="../assets/logos/cropped-iit_goa.png">
 * **Jul 2022** -
 Graduated from Indian Institute of Technology Goa with a Bronze medal in Computer Scince for ranking second in the batch! :)
-
+<br>
 * **Jan - April 2022** -
 Worked on mathematical guarantees in making robust decisions under stochastic and adversarial paradigms. [Report](../assets/misc/DRO_BTP_Report.pdf)
 This was for my B.Tech research project under advisement of [Prof. Divya Padmanabhan](https://sites.google.com/site/divspadmanabhan/). 
