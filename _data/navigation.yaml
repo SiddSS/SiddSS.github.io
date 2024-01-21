@@ -1,11 +1,11 @@
-- name: About
-  link: /about
+# - name: About
+#   link: /about
 
 # - name: Blog
 #   link: /blog
 
-# - name: CV
-#   link: /cv
+- name: Resume
+  link: /cv
 
 # - name: Projects
 #   link: /projects
