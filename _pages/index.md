@@ -51,7 +51,7 @@ I blog about my experiences[here]({{site.url}}/blog.html). -->
 
  <img style="float: right; width: 20%; padding: 10px; box-shadow: 3px 3px 3px 3px gray; " src="../assets/logos/mathworks-vector-logo.png">
 * **May - Aug 2023** - 
- Interned at MathWorks again this summer. This time got the opportunity to work on Parsim command with massive simulations team. Intorduced a function handle which reduced execution time for a typical workflow by three times. This code will be shipped with 2024-a release of Matlab!
+ Interned at MathWorks again this summer. This time got the opportunity to work on Parsim command with massive simulations team. Intorduced a function handle for custom visualizations which reduced execution time for a typical workflow by ten times. This code will be shipped with 2024-a release of Matlab!
   
  * **Jan - April 2023** - 
  Worked on a investigation project on Internet Outage Data provided by [IODA lab](https://ioda.inetintel.cc.gatech.edu). Performed data analysis and explored a ensemble Machine learning approach to detect outages from a bunch of weak signals. [Report](../assets/misc/Ensemble_methods.pdf)
