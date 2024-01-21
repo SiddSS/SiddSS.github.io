@@ -66,10 +66,12 @@ Also coded up a 2-D basketball simulator and experimented with multiple Multi ag
 <br>
 * **August 2022** - 
  Joined Georgia Tech for Master's in Computer Science!!  
-<br>
+
 <img style="float: right; width: 25%; padding: 10px; box-shadow: 3px 3px 3px 3px gray; " src="../assets/logos/cropped-iit_goa.png">
+<br>
 * **Jul 2022** -
 Graduated from Indian Institute of Technology Goa with a Bronze medal in Computer Scince for ranking second in the batch! :)
+<br>
 <br>
 * **Jan - April 2022** -
 Worked on mathematical guarantees in making robust decisions under stochastic and adversarial paradigms. [Report](../assets/misc/DRO_BTP_Report.pdf)
