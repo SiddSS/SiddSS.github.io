@@ -24,7 +24,7 @@ I have experience in Software Development, machine learning and optimization. I 
 
 Modeling real world problems into mathematical models and then finding clever ways of solving them is something that I truly enjoy. 
 
-My hobbies are playing basketball and debating. Feel free to have a strong opinion on any topic conversing with me, always interested in learning multiple perspectives on any topic :)
+My hobbies are playing basketball and debating. Feel free to have a strong opinion on any topic conversing with me, always interested in learning multiple perspectives :)
 
 <!-- Hi! My name is Siddharth Singh Solanki.
 
