@@ -41,6 +41,18 @@ I blog about my experiences[here]({{site.url}}/blog.html). -->
 # Updates and Milestones
 
 <!-- <div style="height:250px;overflow:auto;"> -->
+ <img style="float: right; width: 20%; padding: 10px; box-shadow: 3px 3px 3px 3px gray; " src="../assets/logos/wayfair-logo.png">
+* **Jun 2024** - 
+I started working at Wayfair as a Software Development Engineer (SDE-I). 
+<br>
+<br>
+
+<img style="float: right; width: 20%; padding: 10px; box-shadow: 3px 3px 3px 3px gray; " src="../assets/logos/GeorgiaTech_RGB.png">
+<br>
+* **May 2024** -
+Graduated from Georgia Tech with a Masters degree in Computer Science (specialized in ML!  
+<br>
+<br>
 
 * **Jan 2024** - 
  Resumed working on CollabNext portal ([news](https://research.gatech.edu/georgia-tech-awarded-15m-build-people-centric-network-national-research-database)) for my Master's project under Prof. Kexin Rong.
