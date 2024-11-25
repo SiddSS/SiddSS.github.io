@@ -41,7 +41,7 @@ I blog about my experiences[here]({{site.url}}/blog.html). -->
 # Updates and Milestones
 
 <!-- <div style="height:250px;overflow:auto;"> -->
- <img style="float: right; width: 15%; padding: 5px; box-shadow: 3px 3px 3px 3px gray; " src="../assets/logos/wayfair-logo.png">
+ <img style="float: right; width: 15%; padding: 5px; box-shadow: 3px 3px 3px 3px gray; " src="../assets/logos/Wayfair_logo.png">
 * **Jun 2024** - 
 I started working at Wayfair as a Software Development Engineer (SDE-I). 
 <br>
